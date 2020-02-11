@@ -25,7 +25,7 @@ Accepted short papers will be presented at the VIS conference. They will also be
 
 Authors of accepted short papers may subsequently submit to TVCG (the journal, not to the VIS conference) a full paper on the same topic, consistent with the TVCG standard of asking for “more than 30 percent new material and insights” compared to a previous conference paper.
 
-Concurrent submissions of short papers and posters are not possible.
+Concurrent submissions of short papers and posters are not allowed.
 
 ### Important Dates:
 
@@ -43,5 +43,6 @@ All deadlines are at **5:00pm Pacific Time (PDT)**.
 * Wenwen Dou, *University of North Carolina at Charlotte, USA*
 * Alexander Lex, *University of Utah, USA* 
 * Timo Ropinski, *Ulm University, Germany*
+
 Email: [vis_shortpapers@ieeevis.org](mailto:vis_shortpapers@ieeevis.org)
 
